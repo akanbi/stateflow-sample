@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">stateflow-sample</string>
+    <string name="doSomethingButtonText">Do Something Flow</string>
+</resources>
